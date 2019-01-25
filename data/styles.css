@@ -294,3 +294,10 @@
 }
 .box_32 {
 }
+.heading_1 {
+  font-family:'Arial Negreta', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
