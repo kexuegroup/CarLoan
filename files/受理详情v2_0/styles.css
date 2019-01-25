@@ -35,7 +35,7 @@
   top:10px;
   width:430px;
   height:866px;
-  font-family:'Arial Negreta', 'Arial';
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
   font-weight:700;
   font-style:normal;
 }
@@ -1427,21 +1427,21 @@
   left:0px;
   top:0px;
   width:336px;
-  height:41px;
+  height:36px;
 }
 #u726 {
   border-width:0px;
   position:absolute;
   left:59px;
-  top:727px;
+  top:729px;
   width:335px;
-  height:40px;
+  height:35px;
 }
 #u726_text {
   border-width:0px;
   position:absolute;
   left:2px;
-  top:12px;
+  top:10px;
   width:331px;
   word-wrap:break-word;
 }
@@ -1739,7 +1739,7 @@
   top:0px;
   width:100px;
   height:36px;
-  font-family:'宋体 Bold', '宋体';
+  font-family:'宋体 Bold', '宋体 常规', '宋体';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -1795,7 +1795,7 @@
   top:36px;
   width:100px;
   height:30px;
-  font-family:'宋体 Bold', '宋体';
+  font-family:'宋体 Bold', '宋体 常规', '宋体';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -1850,7 +1850,7 @@
   top:66px;
   width:100px;
   height:30px;
-  font-family:'宋体 Bold', '宋体';
+  font-family:'宋体 Bold', '宋体 常规', '宋体';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -1904,7 +1904,7 @@
   top:96px;
   width:100px;
   height:30px;
-  font-family:'宋体 Bold', '宋体';
+  font-family:'宋体 Bold', '宋体 常规', '宋体';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -1963,7 +1963,7 @@
   top:126px;
   width:100px;
   height:30px;
-  font-family:'宋体 Bold', '宋体';
+  font-family:'宋体 Bold', '宋体 常规', '宋体';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -2019,7 +2019,7 @@
   top:156px;
   width:100px;
   height:35px;
-  font-family:'宋体 Bold', '宋体';
+  font-family:'宋体 Bold', '宋体 常规', '宋体';
   font-weight:700;
   font-style:normal;
   font-size:14px;
