@@ -84,7 +84,7 @@
   top:0px;
   width:105px;
   height:38px;
-  font-family:'宋体 Bold', '宋体';
+  font-family:'宋体 Bold', '宋体 常规', '宋体';
   font-weight:700;
   font-style:normal;
   text-align:center;
@@ -113,7 +113,7 @@
   top:0px;
   width:116px;
   height:38px;
-  font-family:'宋体 Bold', '宋体';
+  font-family:'宋体 Bold', '宋体 常规', '宋体';
   font-weight:700;
   font-style:normal;
   text-align:center;
@@ -142,7 +142,7 @@
   top:0px;
   width:124px;
   height:38px;
-  font-family:'宋体 Bold', '宋体';
+  font-family:'宋体 Bold', '宋体 常规', '宋体';
   font-weight:700;
   font-style:normal;
   text-align:center;
@@ -171,7 +171,7 @@
   top:0px;
   width:556px;
   height:38px;
-  font-family:'宋体 Bold', '宋体';
+  font-family:'宋体 Bold', '宋体 常规', '宋体';
   font-weight:700;
   font-style:normal;
   text-align:center;
@@ -420,10 +420,9 @@
 #u29_text {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
+  left:2px;
+  top:56px;
+  width:101px;
   word-wrap:break-word;
 }
 #u30_img {
@@ -447,10 +446,9 @@
 #u30_text {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
+  left:2px;
+  top:56px;
+  width:112px;
   word-wrap:break-word;
 }
 #u31_img {
@@ -474,10 +472,9 @@
 #u31_text {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
+  left:2px;
+  top:56px;
+  width:120px;
   word-wrap:break-word;
 }
 #u32_img {
@@ -500,10 +497,9 @@
 #u32_text {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
+  left:2px;
+  top:56px;
+  width:552px;
   word-wrap:break-word;
 }
 #u33_img {
@@ -527,10 +523,9 @@
 #u33_text {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
+  left:2px;
+  top:74px;
+  width:101px;
   word-wrap:break-word;
 }
 #u34_img {
@@ -554,10 +549,9 @@
 #u34_text {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
+  left:2px;
+  top:74px;
+  width:112px;
   word-wrap:break-word;
 }
 #u35_img {
@@ -581,10 +575,9 @@
 #u35_text {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
+  left:2px;
+  top:74px;
+  width:120px;
   word-wrap:break-word;
 }
 #u36_img {
@@ -607,10 +600,9 @@
 #u36_text {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
+  left:2px;
+  top:74px;
+  width:552px;
   word-wrap:break-word;
 }
 #u37_img {
